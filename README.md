@@ -266,7 +266,8 @@ marketing-campaign-analysis
 │   └── analysis_campaign_queries.sql
 │
 ├── powerbi
-│   └── Marketing Campaign Analysis Dashboard.pbix
+│     └── Marketing Campaign Analysis Dashboard.pbix
+|     └── marketing_campaign_powerbi.png
 │
 └── README.md
 ```

@@ -257,7 +257,7 @@ Dashboard Visualization → Power BI
 marketing-campaign-analysis
 │
 ├── Data
-│   └── ifood_df.csv
+│   └── marketing_campaign.xlsx
 │
 ├── Excel
 │   └── marketing_campaign.xlsx
